@@ -7,7 +7,7 @@ class Song
   end 
   
   def artist
-    title.artist
+    
   end
   
   
